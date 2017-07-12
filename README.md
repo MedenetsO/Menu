@@ -1,8 +1,8 @@
 # iStepPhone
 
 Project structure:
-- Menu:
-    data;
+- Menu:       Olha Medenets
+        data;
 	brightness;
 	battery;
 	user.ini;
